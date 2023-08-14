@@ -6,7 +6,7 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.4.4/dist/flowbite.min.css" />
-    <title>LZ4 and Zstandard compressor</title>
+    <title>Zstandard compressor</title>
 </head>
 
 <body class="antialiased">
